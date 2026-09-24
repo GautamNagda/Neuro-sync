@@ -138,7 +138,7 @@ export default function TherapeuticTools() {
                 key={cat}
                 onClick={() => setActiveCategory(cat)}
                 style={{
-                  padding: '12px 28px', borderRadius: '30px', border: 'none',
+                  padding: '12px 28px', borderRadius: '30px',
                   background: activeCategory === cat ? 'var(--primary)' : 'var(--glass-bg)',
                   backdropFilter: 'blur(10px)',
                   color: activeCategory === cat ? 'white' : 'var(--text-dark)',
