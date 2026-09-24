@@ -1,0 +1,14 @@
+{
+  "name": "mindbridge-seed",
+  "version": "1.0.0",
+  "description": "MindBridge MongoDB seed data",
+  "main": "seedData.js",
+  "scripts": {
+    "seed": "node seedData.js",
+    "seed:local": "MONGO_URI=mongodb://localhost:27017/mindbridge node seedData.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "mongodb": "^6.3.0"
+  }
+}

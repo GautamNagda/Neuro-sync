@@ -1,0 +1,109 @@
+{
+  "app_name": "Neuro Sync AI",
+  "tagline": "Votre esprit compte. Faites le premier pas.",
+  "nav": {
+    "home": "Accueil",
+    "screening": "Dépistage",
+    "dashboard": "Tableau de bord",
+    "login": "Connexion",
+    "register": "S'inscrire",
+    "logout": "Déconnexion",
+    "chat": "MindBot",
+    "voice": "Journal vocal",
+    "tools": "Boîte à outils"
+  },
+  "hero": {
+    "title": "Votre Esprit Compte",
+    "subtitle": "Faites le premier pas vers la compréhension de votre bien-être mental",
+    "cta_screening": "Commencer le dépistage",
+    "cta_chat": "Parler à MindBot"
+  },
+  "auth": {
+    "login_title": "Bon Retour",
+    "register_title": "Rejoindre Neuro Sync AI",
+    "email": "E-mail",
+    "password": "Mot de passe",
+    "name": "Nom complet",
+    "login_btn": "Se connecter",
+    "register_btn": "Créer un compte"
+  },
+  "screening": {
+    "options": {
+      "0": "Pas du tout",
+      "1": "Plusieurs jours",
+      "2": "Plus de la moitié des jours",
+      "3": "Presque tous les jours"
+    },
+    "next": "Suivant",
+    "previous": "Précédent",
+    "submit": "Soumettre",
+    "consent_agree": "Je comprends et j'accepte",
+    "consent_decline": "Retour"
+  },
+  "phq9_questions": {
+    "q1": "Peu d'intérêt ou de plaisir à faire les choses",
+    "q2": "Se sentir déprimé ou désespéré",
+    "q3": "Troubles du sommeil",
+    "q4": "Fatigue ou manque d'énergie",
+    "q5": "Problèmes d'appétit",
+    "q6": "Mauvaise estime de soi",
+    "q7": "Difficulté de concentration",
+    "q8": "Agitation ou lenteur",
+    "q9": "Pensées suicidaires"
+  },
+  "gad7_questions": {
+    "q1": "Nervosité ou anxiété",
+    "q2": "Incapacité à contrôler l'inquiétude",
+    "q3": "Inquiétude excessive",
+    "q4": "Difficulté à se détendre",
+    "q5": "Agitation",
+    "q6": "Irritabilité",
+    "q7": "Peur que quelque chose de terrible arrive"
+  },
+  "severity": {
+    "minimal": "Minimal",
+    "mild": "Léger",
+    "moderate": "Modéré",
+    "severe": "Sévère"
+  },
+  "crisis": {
+    "title": "Nous sommes là pour vous",
+    "close": "Je comprends"
+  },
+  "chat": {
+    "placeholder": "Tapez votre message...",
+    "send": "Envoyer",
+    "welcome": "Bonjour ! Je suis MindBot. Comment vous sentez-vous aujourd'hui ?"
+  },
+  "footer": {
+    "copyright": "© 2024 Neuro Sync AI."
+  },
+  "tools": {
+    "title": "Boîte à Outils Thérapeutique",
+    "category_all": "Tout",
+    "category_sleep": "Sommeil",
+    "category_anxiety": "Anxiety",
+    "category_stress": "Stress",
+    "mood_before": "Comment vous sentez-vous en ce moment ? (1-10)",
+    "session_saved": "Votre séance a été enregistrée dans votre profil.",
+    "reflect_title": "Réflexion sur la journée",
+    "reflect_desc": "Une pratique douce de journalisation en 3 étapes pour traiter vos pensées.",
+    "reflect_prompt_1": "Quelle est la chose qui s'est bien passée aujourd'hui ?",
+    "reflect_prompt_2": "Quel défi avez-vous rencontré et comment l'avez-vous géré ?",
+    "reflect_prompt_3": "Qu'attendez-vous avec impatience demain ?",
+    "reflect_confirm": "Merci pour votre réflexion.",
+    "jacobson_title": "Relaxation Musculaire",
+    "jacobson_desc": "Relaxation progressive guidée pour libérer la tension physique.",
+    "cbt_title": "Constructeur TCC",
+    "cbt_desc": "Analysez et recadrez les schémas de pensée négatifs à l'aide de la TCC.",
+    "cbt_situation": "Décrivez la situation...",
+    "cbt_thought": "Quelle était votre pensée automatique ?",
+    "cbt_feeling": "Comment vous sentiez-vous ? (Sélectionnez tout ce qui s'applique)",
+    "cbt_behavior": "Qu'avez-vous fait en réponse ?",
+    "worries_title": "Arbre des Inquiétudes",
+    "worries_desc": "Catégorisez les inquiétudes en contrôlables ou incontrôlables.",
+    "organise_title": "Organisateur de Journée",
+    "organise_desc": "Planifiez votre journée avec une gestion des tâches basée sur les priorités.",
+    "suggested_tools": "En fonction de votre résultat, nous recommandons ces outils :"
+  }
+}

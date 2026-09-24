@@ -1,0 +1,109 @@
+{
+  "app_name": "Neuro Sync AI",
+  "tagline": "Tu mente importa. Da el primer paso.",
+  "nav": {
+    "home": "Inicio",
+    "screening": "Evaluación",
+    "dashboard": "Panel",
+    "login": "Iniciar sesión",
+    "register": "Registrarse",
+    "logout": "Cerrar sesión",
+    "chat": "MindBot",
+    "voice": "Diario de voz",
+    "tools": "Kit Terapéutico"
+  },
+  "hero": {
+    "title": "Tu Mente Importa",
+    "subtitle": "Da el primer paso hacia la comprensión de tu bienestar mental",
+    "cta_screening": "Iniciar evaluación",
+    "cta_chat": "Hablar con MindBot"
+  },
+  "auth": {
+    "login_title": "Bienvenido de nuevo",
+    "register_title": "Únete a Neuro Sync AI",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "name": "Nombre completo",
+    "login_btn": "Iniciar sesión",
+    "register_btn": "Crear cuenta"
+  },
+  "screening": {
+    "options": {
+      "0": "Para nada",
+      "1": "Varios días",
+      "2": "Más de la mitad de los días",
+      "3": "Casi todos los días"
+    },
+    "next": "Siguiente",
+    "previous": "Anterior",
+    "submit": "Enviar",
+    "consent_agree": "Entiendo y acepto",
+    "consent_decline": "Volver"
+  },
+  "phq9_questions": {
+    "q1": "Poco interés o placer en hacer cosas",
+    "q2": "Sentirse deprimido o desesperanzado",
+    "q3": "Problemas de sueño",
+    "q4": "Cansancio o falta de energía",
+    "q5": "Problemas de apetito",
+    "q6": "Sentirse mal consigo mismo",
+    "q7": "Dificultad para concentrarse",
+    "q8": "Agitación o lentitud",
+    "q9": "Pensamientos de muerte"
+  },
+  "gad7_questions": {
+    "q1": "Nerviosismo o ansiedad",
+    "q2": "Incapacidad de controlar la preocupación",
+    "q3": "Preocupación excesiva",
+    "q4": "Dificultad para relajarse",
+    "q5": "Inquietud",
+    "q6": "Irritabilidad",
+    "q7": "Miedo a que algo terrible suceda"
+  },
+  "severity": {
+    "minimal": "Mínimo",
+    "mild": "Leve",
+    "moderate": "Moderado",
+    "severe": "Severo"
+  },
+  "crisis": {
+    "title": "Estamos aquí para ti",
+    "close": "Entiendo"
+  },
+  "chat": {
+    "placeholder": "Escribe tu mensaje...",
+    "send": "Enviar",
+    "welcome": "¡Hola! Soy MindBot. ¿Cómo te sientes hoy?"
+  },
+  "footer": {
+    "copyright": "© 2024 Neuro Sync AI."
+  },
+  "tools": {
+    "title": "Kit de Herramientas Terapéuticas",
+    "category_all": "Todo",
+    "category_sleep": "Sueño",
+    "category_anxiety": "Ansiedad",
+    "category_stress": "Estrés",
+    "mood_before": "¿Cómo te sientes ahora mismo? (1-10)",
+    "session_saved": "Tu sesión ha sido guardada en tu perfil.",
+    "reflect_title": "Reflexiona sobre tu día",
+    "reflect_desc": "Una suave práctica de diario en 3 pasos para procesar tus pensamientos.",
+    "reflect_prompt_1": "¿Qué es algo que salió bien hoy?",
+    "reflect_prompt_2": "¿Qué desafío enfrentaste y cómo lo manejaste?",
+    "reflect_prompt_3": "¿Qué esperas para mañana?",
+    "reflect_confirm": "Gracias por reflexionar.",
+    "jacobson_title": "Relajación Muscular",
+    "jacobson_desc": "Relajación progresiva guiada para liberar la tensión física.",
+    "cbt_title": "Constructor de TCC",
+    "cbt_desc": "Analiza y replantea patrones de pensamiento negativos usando TCC.",
+    "cbt_situation": "Describe la situación...",
+    "cbt_thought": "¿Cuál fue tu pensamiento automático?",
+    "cbt_feeling": "¿Cómo te sentiste? (Selecciona todos los que correspondan)",
+    "cbt_behavior": "¿Qué hiciste en respuesta?",
+    "worries_title": "Árbol de Preocupaciones",
+    "worries_desc": "Categoriza las preocupaciones en controlables vs incontrolables.",
+    "organise_title": "Organizador del Día",
+    "organise_desc": "Planifica tu día con gestión de tareas basada en prioridades.",
+    "suggested_tools": "Basado en tu resultado, recomendamos estas herramientas:"
+  }
+}
